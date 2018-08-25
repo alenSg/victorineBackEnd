@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: victorine
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: alen
+Implementation-Vendor-Id: com.victorine
+Created-By: IntelliJ IDEA
+Build-Jdk: 10
+Main-Class: ${start-class}
+
